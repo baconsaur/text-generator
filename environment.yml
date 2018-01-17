@@ -1,0 +1,7 @@
+name: tf-lstm
+dependencies:
+  - python=3.6
+  - numpy
+  - tensorflow=1.4
+  - scikit-learn
+  - pandas
